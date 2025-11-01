@@ -20,5 +20,6 @@ int main()
 
         printf("\nElement not found\n");
 
+    free(a);
     return 0;
 }
