@@ -1,11 +1,11 @@
 
 #include <stdio.h>
 #include <string.h> 
-char str[25];
-
 
 void main() {
-    printf("Login:\n");scanf("%s", str);
+    char str[25];
+    printf("Login:\n");
+    scanf("%s",str);
 
     if (strcmp(str, "admin")) 
         printf("Login failed.\n");
