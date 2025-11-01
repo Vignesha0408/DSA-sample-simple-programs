@@ -8,8 +8,7 @@ void genpas(int n)
     l=strlen(c);
     printf("\nPassword=");
     for(int i=0;i<n;i++)
-        printf("%c ",c[rand()%l]);
-    
+        printf("%c ",c[rand()%l]); 
 }
 
 int main()
