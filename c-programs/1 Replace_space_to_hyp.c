@@ -9,6 +9,5 @@ void main()
     for (i=0;s[i]!='\0';i++)
         if (s[i]==' ')
             s[i]='-';
-
     printf("Sentence: %s", s);
 }

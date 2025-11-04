@@ -1,20 +1,20 @@
 #include <stdio.h>
-char s[50];int i,spl=0,alp=0,count=0;;
-
 void main() 
 {
+    char s[25];
+    int i,A=0,C=0,D=0;;
     printf("Enter sentence:");
     scanf("%[^\n]",s);
-    //try with fgets
+    printf("%s",s);
 
     for (i=0;s[i]!='\0';i++)
         if (s[i]>='a' && s[i]<='z' ||s[i]>='A' && s[i]<='Z' )
-            alp++;
+            A++;
         else if(s[i]>='0' && s[i]<='9' )
-            count++;
+            D++;
         else
-            spl++;
+            C++;
          
-printf("Chars:%d ,Digits=%d, Spl Chars=%d",alp,count,spl);
+printf("Chars:%d ,Digits=%d, Spl Chars=%d",A,D,C);
     
 }
