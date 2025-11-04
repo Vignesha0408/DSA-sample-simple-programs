@@ -1,13 +1,11 @@
 /*Program to count vowel and consonent*/
 #include<stdio.h>
 #include<string.h>
-
 void main()
 {
     char s[25];
     int i,c1=0,c2=0;
     printf("Enter:");
-    //scanf("%s",s);
     scanf("%[^\n]",s);
     printf("String:%s\n",s);
 
@@ -18,8 +16,5 @@ void main()
         else if(s[i]==' ');
         else
             c2++;
-    
-
-
     printf("Vowels= %d, Consonents=%d",c1,c2);
 }
