@@ -11,7 +11,8 @@ void main()
         else if((int)a[i]>=97 && (int)a[i]<=122)
             printf("%c",a[i]-32);  
 }/*main()*/
- 
-  
 
-  
+
+
+
+

@@ -3,7 +3,7 @@
 void main()
 {
 	int i,c,j;
-	for(j=10;j<20;j++)
+	for(j=10;j<100;j++)
 	{
 		c=0;
 	for(i=2;i<j;i++)

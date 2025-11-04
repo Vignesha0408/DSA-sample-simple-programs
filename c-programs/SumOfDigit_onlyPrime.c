@@ -1,4 +1,4 @@
-/*Add all no including prime only*/
+/*Add all no including prime only .try handle -ve no also.*/
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -6,8 +6,9 @@
 void main()
 {
 	int ans=0,d,n=232;
+    
 	while(n>0)
-	{
+	{ 
 		d=n%10;
         if( d == 2||3||5||7 )
 		    ans=ans+d;
