@@ -1,0 +1,26 @@
+Patient_ID,Gender,Age,Department,Disease,Admission_Date,Discharge_Date,Days_Admitted,Treatment_Cost,Hospital_Branch
+P001,M,34,Cardiology,Hypertension,1/5/2025,1/9/2025,4,2500,Main
+P002,F,56,Orthopedics,Fracture,1/6/2025,1/12/2025,6,4000,North
+P003,M,40,Neurology,Migraine,2/3/2025,2/8/2025,5,3500,Main
+P004,F,62,Cardiology,Arrhythmia,2/4/2025,2/10/2025,6,4200,East
+P005,M,45,Orthopedics,Arthritis,2/7/2025,2/10/2025,3,1700,North
+P006,F,30,Neurology,Epilepsy,2/12/2025,2/14/2025,2,2100,Main
+P007,M,50,Cardiology,Heart Attack,3/1/2025,3/9/2025,8,10000,Main
+P008,F,42,Orthopedics,Sprain,3/9/2025,3/11/2025,2,1000,North
+P009,M,37,Neurology,Stroke,3/13/2025,3/20/2025,7,8000,East
+P010,F,28,Cardiology,Hypertension,3/15/2025,3/19/2025,4,2500,Main
+P011,M,60,Orthopedics,Osteoporosis,3/21/2025,3/27/2025,6,5000,North
+P012,F,34,Neurology,Migraine,3/22/2025,3/24/2025,2,1800,Main
+P013,M,53,Cardiology,Heart Failure,4/1/2025,4/7/2025,6,9500,East
+P014,F,47,Orthopedics,Fracture,4/3/2025,4/10/2025,7,4200,North
+P015,M,39,Neurology,Epilepsy,4/5/2025,4/9/2025,4,2600,Main
+P016,F,55,Cardiology,Arrhythmia,4/12/2025,4/16/2025,4,2300,East
+P017,M,44,Orthopedics,Sprain,4/13/2025,4/15/2025,2,1200,North
+P018,F,36,Neurology,Migraine,4/17/2025,4/19/2025,2,1700,Main
+P019,M,63,Cardiology,Heart Attack,5/1/2025,5/10/2025,9,12000,Main
+P020,F,51,Orthopedics,Arthritis,5/4/2025,5/7/2025,3,2100,North
+P021,M,38,Neurology,Stroke,5/12/2025,5/19/2025,7,7900,East
+P022,F,32,Cardiology,Hypertension,5/15/2025,5/19/2025,4,2500,Main
+P023,M,56,Orthopedics,Osteoporosis,5/21/2025,5/26/2025,5,3750,North
+P024,F,29,Neurology,Migraine,5/22/2025,5/25/2025,3,1600,Main
+P025,M,48,Cardiology,Heart Failure,5/26/2025,5/31/2025,5,7600,East

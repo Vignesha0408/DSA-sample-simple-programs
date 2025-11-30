@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Category,Supplier,Stock_Quantity,Reorder_Level,Price,City
+P001,Chair A,Furniture,Supplier X,100,40,800,Mumbai
+P002,Table B,Furniture,Supplier Y,25,30,1500,Delhi
+P003,Mouse C,Electronics,Supplier Z,70,20,600,Bengaluru
+P004,Pen D,Stationery,Supplier X,200,50,20,Pune
+P005,Laptop E,Electronics,Supplier W,40,25,55000,Mumbai
+P006,Sofa F,Furniture,Supplier Y,15,20,10000,Delhi
+P007,Printer G,Electronics,Supplier Z,33,15,7500,Chennai
+P008,Book H,Stationery,Supplier X,180,60,300,Bengaluru
+P009,Desk I,Furniture,Supplier Y,18,25,2200,Hyderabad
+P010,Monitor J,Electronics,Supplier W,27,20,14000,Chennai
+P011,Stapler K,Stationery,Supplier X,90,40,180,Kolkata
+P012,Cabinet L,Furniture,Supplier Y,50,30,4000,Pune
+P013,Keyboard M,Electronics,Supplier Z,33,30,800,Bengaluru
+P014,Marker N,Stationery,Supplier X,130,40,50,Mumbai
+P015,Projector O,Electronics,Supplier W,15,10,36000,Delhi
+P016,Cushion P,Furniture,Supplier Y,12,15,400,Chennai
+P017,Pencil Q,Stationery,Supplier X,175,60,15,Delhi
+P018,Speaker R,Electronics,Supplier Z,9,10,8500,Mumbai
+P019,Whiteboard S,Furniture,Supplier Y,23,15,2500,Pune
+P020,Glue T,Stationery,Supplier X,85,30,35,Chennai
+P021,Router U,Electronics,Supplier Z,18,15,3500,Hyderabad
+P022,Envelope V,Stationery,Supplier X,210,60,10,Mumbai
+P023,Mousepad W,Electronics,Supplier W,24,20,300,Kolkata
+P024,Clipboard X,Stationery,Supplier X,65,40,100,Bengaluru
+P025,Console Y,Electronics,Supplier Z,5,10,42000,Chennai

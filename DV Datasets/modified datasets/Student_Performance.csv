@@ -1,0 +1,26 @@
+Student_ID,Gender,Department,Attendance,Internal_Marks,External_Marks,Grade
+S001,M,Computer Science,95,38,55,A
+S002,F,Physics,89,40,52,A
+S003,M,Chemistry,76,30,48,B
+S004,F,Mathematics,88,36,50,A
+S005,M,Computer Science,80,35,49,B
+S006,F,Mathematics,92,39,54,A
+S007,M,Physics,85,32,46,B
+S008,F,Chemistry,90,30,47,B
+S009,M,Computer Science,87,40,53,A
+S010,F,Physics,80,37,44,B
+S011,M,Mathematics,65,29,42,C
+S012,F,Chemistry,98,40,57,A
+S013,M,Computer Science,92,35,52,A
+S014,F,Physics,77,33,45,B
+S015,M,Chemistry,93,40,52,A
+S016,F,Mathematics,91,38,51,A
+S017,M,Computer Science,82,34,46,B
+S018,F,Physics,84,28,49,B
+S019,M,Chemistry,90,32,48,B
+S020,F,Mathematics,95,37,54,A
+S021,M,Computer Science,83,36,47,B
+S022,F,Physics,77,27,44,C
+S023,M,Chemistry,85,31,49,B
+S024,F,Mathematics,88,32,51,B
+S025,M,Computer Science,90,40,51,A
